@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: beige;
+    text-align: center;
+}
+
+#center {
+    display: block;
+    margin: auto;
+    margin-top: 70px;
+    border: 2px solid black;
+    width: 40%;
+    background-color: bisque;
+    padding: 15px;
+}
+
+input, select {
+    height: 2.5em;
+}
